@@ -3,6 +3,7 @@
 type Query {
     info: String!
     allTouristSpots: [TouristSpot!]!
+    find(state: String, orderBy: TouristSpotOrderBy): [TouristSpot!]!
 }
 
 
@@ -12,4 +13,13 @@ type TouristSpot {
     bestTime: String!,
     state: String!
     rating: Float!
+}
+
+input TouristSpotOrderBy {
+    rating: Sort 
+}
+
+enum Sort {
+   asc
+   desc 
 }

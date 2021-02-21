@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const _ = require('lodash');
 
 class TouristSpots {
     constructor() {
@@ -8,6 +9,12 @@ class TouristSpots {
 
     allSpots(){
         return this.spots
+    }
+
+    findByState(state){
+        return _.filter(this.spots, o => {
+            return o.state === state
+        })
     }
 }
 
