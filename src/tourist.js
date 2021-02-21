@@ -16,6 +16,9 @@ class TouristSpots {
             return o.state === state
         })
     }
+    orderByRating(type) {
+        return _.orderBy(this.spots, ['rating'], [type])
+    }
 }
 
 

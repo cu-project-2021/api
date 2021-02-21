@@ -5,10 +5,14 @@ const allTouristSpots = (parent, args, context, info) => {
 }
 
 const find = (parent, args, context, info) => {
-    if(!args.state){
+    if(args.state){
         return context.tourists.allSpots()
+    }else if (args.orderBy) {
+        return context.tourists.orderByRating(args.orderBy.rating);
+    }else {
+        return context.tourists.findByState(args.state);
     }
-    return context.tourists.findByState(args.state);
+
 }
 
 
