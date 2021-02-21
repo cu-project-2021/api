@@ -2,4 +2,14 @@
 
 type Query {
     info: String!
+    allTouristSpots: [TouristSpot!]!
+}
+
+
+type TouristSpot {
+    name: String!
+    description: String!
+    bestTime: String!,
+    state: String!
+    rating: Float!
 }

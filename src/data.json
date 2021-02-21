@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Kolkata",
+        "description": "Kolkata, India's second biggest city, is a perpetually ongoing festival of human existence, concurrently luxurious and squalid, refined and frantic, pointedly futuristic, while beautifully in decay. A vibrant 350-year-old metropolis located on India's Eastern Coast, the capital of West Bengal thrives on contradictions and imposing spectacles; nothing is commonplace in this city. Famously known as the City of Joy, Kolkata is, in every sense, the artistic, cultural and intellectual capital of the country. Kolkata's streets are vivid, hectic, chaotic, and yet, brimming with life and creativity. Driven by the indomitable spirit of the self-made middle class, the city has created a beautiful juxtaposition of the old colonial-era charm with the nascent upcoming hipster culture that thrives amongst the city's millennial residents.",
+        "bestTime": "October to March",
+        "state": "West Bengal",
+        "rating": 4.3
+    },
+    {
+        "name": "Darjeeling",
+        "description": "Jaw-dropping locales, mesmerising sunrises, the untouched beauty of the hills, the old-world charm of the past, and the welcoming smiles of the local people all add up to make Darjeeling one of the most beautiful hill stations in Eastern part of India. Spread over a steep mountain ridge, nestled amidst acres of lush green tea plantations, Darjeeling stands at the height of 2,050 meters above sea level, thus boasting of cool climes all year round. This scenic hill station is the perfect getaway for a romantic honeymoon and is just around 700 kilometres away from Kolkata.",
+        "bestTime": "February to March, September to December",
+        "state": "West Bengal",
+        "rating": 4.3
+    },
+    {
+        "name": "Sundarbans",
+        "description": "Known for hosting the biggest mangrove forests in the world, Sundarbans National Park is located in West Bengal, India. It is also a Tiger Reserve and a Biosphere reserve that provides a complete nature's circle to the tourist right from 'Royal Bengal tigers' to roaring rivers and beautiful estuaries. Sundarbans National Park is a part of Sundarban delta that is covered with Mangrove Forest and the largest population of the Bengal Tigers. It is a UNESCO world heritage site with a large variety of birds and reptiles including salt-water crocodile.",
+        "bestTime": "September to March",
+        "state": "West Bengal",
+        "rating": 4.2
+    },
+    {
+        "name": "Siliguri",
+        "description": "Situated in the Jalpaiguri and Siliguri districts of West Bengal, Siliguri is a city known as the Gateway to North-East India. Located 560 kms from Kolkata to the north, Siliguri is the twin city of Jalpaiguri and the third largest in West Bengal. Siliguri has its own international airport which serves mainly as a base for tourists to camp in before moving out to explore nearby tourist attractions such as Kalimpong, Darjeeling, Gangtok and Bhutan. However, Siliguri itself is a perfectly good holiday destination, with sufficient things to see and do. Over the years, Siliguri has become famous for its products such as tea and timber and also an important commercial and connecting hub.",
+        "bestTime": "Throughout the year",
+        "state": "West Bengal",
+        "rating": 4.3
+    },
+    {
+        "name": "Digha",
+        "description": "Beach town situated on the shores of Bay of Bengal, Digha is a popular tourist destination known for its untouched beaches and scenic views, especially among people in West Bengal.",
+        "bestTime": "July to March",
+        "state": "West Bengal",
+        "rating": 4.0
+    },
+    {
+        "name": "Jaipur",
+        "description": "Jaipur is a vibrant amalgamation of the old and the new. Also called the Pink City, the capital of the royal state of Rajasthan, was ruled by the Rajputs for many centuries and developed as a planned city in the 17th century AD. Along with Delhi and Agra, Jaipur forms the Golden Triangle and hails as one of the most famous tourist circuits of the country.",
+        "bestTime": "October to March",
+        "state": "Rajasthan",
+        "rating": 4.3
+    },
+    {
+        "name": "Udaipur",
+        "description": "Udaipur, also known as the City of Lakes, is the crown jewel of the state of Rajasthan. It is surrounded by the beautiful Aravalli Hills in all directions, making this city as lovely as it is. This 'Venice of the East' has an abundance of natural beauty, mesmerising temples and breathtaking architecture which makes it a must-visit destination in India.  A boat ride through the serene waters of Lake Pichola will be enough to prove to you why Udaipur is the pride of Rajasthan.",
+        "bestTime": "October to March",
+        "state": "Rajasthan",
+        "rating": 4.3
+    },
+    {
+        "name": "Jaisalmer",
+        "description": "Jaisalmer is a major tourist spot located in the northwestern state of Rajasthan in India. It is known as the 'golden city' due to its bounteous golden dunes and castles clad in golden honey sandstone. Jaisalmer is adorned with lakes, ornate Jain temples and havelis. Climb on to the camel saddle and make your way through this desert or camp under the night sky in this golden land for an unforgettable experience.",
+        "bestTime": "October to March",
+        "state": "Rajasthan",
+        "rating": 4.4
+    },
+    {
+        "name": "Mount Abu",
+        "description": "The only hill station of Rajasthan, its cool atmosphere and lush green surroundings make it a major tourist spot within the state. The most important attraction, however, are undoubtedly the Dilwara temples, which is one of the most stunning piece of architecture in the country. If you are a history or architecture buff, this is one of the places you should absolutely not miss out in India.",
+        "bestTime": "October to March",
+        "state": "Rajasthan",
+        "rating": 4.3
+    },
+    {
+        "name": "Ajmer",
+        "description": "Surrounded by Aravali ranges, the city of Ajmer is most famous for the Ajmer Sharif Dargah of saint Muin-ud-din Chishti. Located at a distance of 130 km from Jaipur and 14 kms from Pushkar in Rajasthan, the city is firmly bound by its traditions and culture. Ajmer has a unique charm which lies in the ethos and craftsmanship practised over centuries.",
+        "bestTime":"October to March",
+        "state": "Rajasthan",
+        "rating": 3.7
+    }
+]
