@@ -10,7 +10,8 @@ type Query {
 type TouristSpot {
     name: String!
     description: String!
-    bestTime: String!,
+    bestTime: String!
+    images: [String!]!
     state: String!
     rating: Float!
 }

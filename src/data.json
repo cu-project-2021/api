@@ -4,160 +4,264 @@
         "description": "Kolkata, India's second biggest city, is a perpetually ongoing festival of human existence, concurrently luxurious and squalid, refined and frantic, pointedly futuristic, while beautifully in decay. A vibrant 350-year-old metropolis located on India's Eastern Coast, the capital of West Bengal thrives on contradictions and imposing spectacles; nothing is commonplace in this city. Famously known as the City of Joy, Kolkata is, in every sense, the artistic, cultural and intellectual capital of the country. Kolkata's streets are vivid, hectic, chaotic, and yet, brimming with life and creativity. Driven by the indomitable spirit of the self-made middle class, the city has created a beautiful juxtaposition of the old colonial-era charm with the nascent upcoming hipster culture that thrives amongst the city's millennial residents.",
         "bestTime": "October to March",
         "state": "West Bengal",
-        "rating": 4.3
+        "rating": 4.3,
+        "images": [
+            "https://www.wallpapertip.com/wmimgs/244-2448303_kolkata-hd-wallpaper.jpg",
+            "https://pix10.agoda.net/geo/city/6241/1_6241_02.jpg?s=1920x822",
+            "https://myventure.in/wp-content/uploads/2016/02/kolkata-1.jpg",
+            "https://wallup.net/wp-content/uploads/2018/03/19/587893-Kolkata-Victoria_Memorial_Hall.jpg"
+        ]
     },
     {
         "name": "Darjeeling",
         "description": "Jaw-dropping locales, mesmerising sunrises, the untouched beauty of the hills, the old-world charm of the past, and the welcoming smiles of the local people all add up to make Darjeeling one of the most beautiful hill stations in Eastern part of India. Spread over a steep mountain ridge, nestled amidst acres of lush green tea plantations, Darjeeling stands at the height of 2,050 meters above sea level, thus boasting of cool climes all year round. This scenic hill station is the perfect getaway for a romantic honeymoon and is just around 700 kilometres away from Kolkata.",
         "bestTime": "February to March, September to December",
         "state": "West Bengal",
-        "rating": 4.3
+        "rating": 4.3,
+        "images": [
+            "https://wallpapercave.com/wp/wp6191519.jpg",
+            "https://wallpapercave.com/wp/wp6191605.jpg",
+            "https://wallpapercave.com/wp/wp6191774.jpg",
+            "https://www.sinclairshotels.com/assets/images/offers/special_offers/darjeeling_holiday_pkg.jpg"
+        ]
     },
     {
         "name": "Sundarbans",
         "description": "Known for hosting the biggest mangrove forests in the world, Sundarbans National Park is located in West Bengal, India. It is also a Tiger Reserve and a Biosphere reserve that provides a complete nature's circle to the tourist right from 'Royal Bengal tigers' to roaring rivers and beautiful estuaries. Sundarbans National Park is a part of Sundarban delta that is covered with Mangrove Forest and the largest population of the Bengal Tigers. It is a UNESCO world heritage site with a large variety of birds and reptiles including salt-water crocodile.",
         "bestTime": "September to March",
         "state": "West Bengal",
-        "rating": 4.2
+        "rating": 4.2,
+        "images": [
+           "https://i.pinimg.com/originals/f5/54/0e/f5540e609e208e4dfd8c1ef2e550f319.jpg",
+           "https://wallpapercave.com/wp/wp2519762.jpg",
+           "https://media.cntraveller.in/wp-content/uploads/2019/02/Sundarbans-deers-1366x768.jpg"
+        ]
     },
     {
         "name": "Siliguri",
         "description": "Situated in the Jalpaiguri and Siliguri districts of West Bengal, Siliguri is a city known as the Gateway to North-East India. Located 560 kms from Kolkata to the north, Siliguri is the twin city of Jalpaiguri and the third largest in West Bengal. Siliguri has its own international airport which serves mainly as a base for tourists to camp in before moving out to explore nearby tourist attractions such as Kalimpong, Darjeeling, Gangtok and Bhutan. However, Siliguri itself is a perfectly good holiday destination, with sufficient things to see and do. Over the years, Siliguri has become famous for its products such as tea and timber and also an important commercial and connecting hub.",
         "bestTime": "Throughout the year",
         "state": "West Bengal",
-        "rating": 4.3
+        "rating": 4.3,
+        "images": [
+            "https://thumbs.dreamstime.com/b/picture-beautiful-landscape-view-siliguri-tourism-indian-city-tour-picture-roadway-besides-mountain-158440588.jpg",
+            "https://image3.mouthshut.com/images/Restaurant/Photo/-26998_10864.jpg"
+        ]
     },
     {
         "name": "Digha",
         "description": "Beach town situated on the shores of Bay of Bengal, Digha is a popular tourist destination known for its untouched beaches and scenic views, especially among people in West Bengal.",
         "bestTime": "July to March",
         "state": "West Bengal",
-        "rating": 4.0
+        "rating": 4.0,
+        "images": [
+            "https://images.unsplash.com/photo-1559671888-af88d0c275bd?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8ZGlnaGElMjBiZWFjaCUyMGluZGlhfGVufDB8fDB8&ixlib=rb-1.2.1&w=1000&q=80",
+            "https://logout.world/media/Digha_Beach.jpg",
+            "https://assets.telegraphindia.com/telegraph/16digha_184242.jpg"
+        ]
     },
     {
         "name": "Jaipur",
         "description": "Jaipur is a vibrant amalgamation of the old and the new. Also called the Pink City, the capital of the royal state of Rajasthan, was ruled by the Rajputs for many centuries and developed as a planned city in the 17th century AD. Along with Delhi and Agra, Jaipur forms the Golden Triangle and hails as one of the most famous tourist circuits of the country.",
         "bestTime": "October to March",
         "state": "Rajasthan",
-        "rating": 4.3
+        "rating": 4.3,
+        "images": [
+            "https://pix10.agoda.net/geo/city/8845/1_8845_02.jpg?s=1920x822",
+            "https://wallpaperaccess.com/full/1266890.jpg",
+            "https://www.hotelsjaipur.com/Jaipur_Images/alberthall.jpg"
+        ]
     },
     {
         "name": "Udaipur",
         "description": "Udaipur, also known as the City of Lakes, is the crown jewel of the state of Rajasthan. It is surrounded by the beautiful Aravalli Hills in all directions, making this city as lovely as it is. This 'Venice of the East' has an abundance of natural beauty, mesmerising temples and breathtaking architecture which makes it a must-visit destination in India.  A boat ride through the serene waters of Lake Pichola will be enough to prove to you why Udaipur is the pride of Rajasthan.",
         "bestTime": "October to March",
         "state": "Rajasthan",
-        "rating": 4.3
+        "rating": 4.3,
+        "images": [
+            "https://pix10.agoda.net/geo/city/3667/1_3667_02.jpg?s=1920x822",
+            "https://c4.wallpaperflare.com/wallpaper/756/599/630/man-made-udaipur-hotel-hotel-india-wallpaper-preview.jpg",
+            "https://st2.depositphotos.com/1000528/7606/i/950/depositphotos_76062369-stock-photo-city-palace-udaipur-india.jpg",
+            "https://cdn.pixabay.com/photo/2017/05/14/10/45/udaipur-2311788_960_720.jpg"
+        ]
     },
     {
         "name": "Jaisalmer",
         "description": "Jaisalmer is a major tourist spot located in the northwestern state of Rajasthan in India. It is known as the 'golden city' due to its bounteous golden dunes and castles clad in golden honey sandstone. Jaisalmer is adorned with lakes, ornate Jain temples and havelis. Climb on to the camel saddle and make your way through this desert or camp under the night sky in this golden land for an unforgettable experience.",
         "bestTime": "October to March",
         "state": "Rajasthan",
-        "rating": 4.4
+        "rating": 4.4,
+        "images": [
+            "https://i.ytimg.com/vi/vFapg7KmvKw/maxresdefault.jpg",
+            "https://www.teahub.io/photos/full/271-2710181_fort-of-jaisalmer-rajasthan-india-jaisalmer-fort.jpg",
+            "https://i.pinimg.com/originals/06/41/4d/06414d39a0e01a029f7d63ca7575d0db.jpg",
+            "https://previews.123rf.com/images/dimol/dimol1711/dimol171100049/89130415-view-of-jaisalmer-city-from-jaisalmer-fort-rajasthan-india.jpg"
+        ]
     },
     {
         "name": "Mount Abu",
         "description": "The only hill station of Rajasthan, its cool atmosphere and lush green surroundings make it a major tourist spot within the state. The most important attraction, however, are undoubtedly the Dilwara temples, which is one of the most stunning piece of architecture in the country. If you are a history or architecture buff, this is one of the places you should absolutely not miss out in India.",
         "bestTime": "October to March",
         "state": "Rajasthan",
-        "rating": 4.3
+        "rating": 4.3,
+        "images": [
+            "http://boostthyself.com/wp-content/uploads/2017/08/Guru-Shikhar-Mount-Abu.jpg",
+            "https://assets.traveltriangle.com/blog/wp-content/uploads/2016/02/guru-shikhar-peak-cover.jpg",
+            "https://www.makemytrip.com/travel-guide/media/dg_image/mount_abu/thumb/Mount-Abu-Lavneet_19_166_mount_abu_938_410.jpg"
+        ]
     },
     {
         "name": "Ajmer",
         "description": "Surrounded by Aravali ranges, the city of Ajmer is most famous for the Ajmer Sharif Dargah of saint Muin-ud-din Chishti. Located at a distance of 130 km from Jaipur and 14 kms from Pushkar in Rajasthan, the city is firmly bound by its traditions and culture. Ajmer has a unique charm which lies in the ethos and craftsmanship practised over centuries.",
         "bestTime": "October to March",
         "state": "Rajasthan",
-        "rating": 3.7
+        "rating": 3.7,
+        "images": [
+            "https://wallpapercave.com/wp/wp4584244.jpg",
+            "https://www.outlookindia.com/public/uploads/gallery/20200907/ajmer_20200907.jpg",
+            "https://kafilabackup.files.wordpress.com/2012/06/dargah-5.jpg"
+        ]
     },
     {
         "name": "Amritsar",
         "description": "Home of the glorious Golden Temple, the iconic city of Amritsar, portrays the heroic character of the Punjab. A day in this peaceful city starts with the spiritual prayers from Gurudwaras. The original name of first the ancient lake, then of the temple complex, and later the surrounding city, meaning \"pool of ambrosial nectar.\"",
         "bestTime": "October to March",
         "state": "Punjab",
-        "rating": 4.4
+        "rating": 4.4,
+        "images": [
+            "https://wallpapercave.com/wp/wp3188687.jpg",
+            "https://i.pinimg.com/originals/9b/6b/0f/9b6b0fbc0099a4f2f63480c44f3cc640.jpg",
+            "https://i.pinimg.com/originals/5b/86/09/5b860912c75d0d651124d5d5c43b0eae.jpg"
+        ]
     },
     {
         "name": "Patiala",
         "description": "The fourth-largest city in the state of Punjab, Patiala is nestled in the southeast of the golden land. Patiala has strong historical and cultural roots, surrounded by architectural marvels and cultural heritage along with being a preferred destination for exploring the core traditions of Punjab. Patiala was once an erstwhile princely state and hence is home to many architectural marvels that are a blend of Mughal and Rajput architecture.",
         "bestTime": "October to March",
         "state": "Punjab",
-        "rating": 2.5
+        "rating": 2.5,
+        "images": [
+            "https://cdn.s3waas.gov.in/s38cb22bdd0b7ba1ab13d742e22eed8da2/uploads/2018/04/2018041138.jpg",
+            "https://image3.mouthshut.com/images/imagesp/925752776s.jpg"
+        ]
     },
     {
         "name": "Ludhiana",
         "description": "",
         "bestTime": "October to March",
         "state": "Punjab",
-        "rating": 2.9
+        "rating": 2.9,
+        "images": [
+            "https://www.shoutlo.com/uploads/articles/header-img-7-best-places-you-must-visit-in-ludhiana2.jpg",
+            "https://edge.ixigo.com/ixi-api/img/570c9af0bad3eb3e36c27c47_600x315.jpg"
+        ]
     },
     {
         "name": "Puri",
         "description": "Puri in Odisha is one of the four must-visit pilgrimage sites for Hindus because of Jagannath Temple that forms the part of Char Dham in India. Puri is a beach city located on the coast of Bay of Bengal which is one of the favourites among people of West Bengal for a short trip.",
         "bestTime": "July to March",
         "state": "Odisha",
-        "rating": 4.2
+        "rating": 4.2,
+        "images": [
+            "https://dd0w3jaz1pep7.cloudfront.net/assets/images/tourism/city/Puri/puri-4fcd3fcde44d78692f22ecc0.jpg",
+            "https://s3.india.com/wp-content/uploads/2020/06/Rath-Yatra-2-PTI.jpg",
+            "https://www.oyorooms.com/travel-guide/wp-content/uploads/2019/02/golden-beach-1.jpg"
+        ]
     },
     {
         "name": "Bhubaneswar",
         "description": "Bhubaneshwar is an ancient city replete with beautiful historic temples which attract pilgrims and tourists from all over the country. The name of the city literally means Lord of the Universe, rightly reflected in the number of temples here and the religious fervor of its locals. This is now a bustling city where the history is beautifully intertwined with its modern and progressive present. Bhubaneshwar being the centre for religious tourism has a number of majestic temples built centuries ago which have still retained their original over all these years. Among them the Lingaraj temple and the Parasurameswara temple are must-visits and attract tourists for all parts of the country.",
         "bestTime": "October to March",
         "state": "Odisha",
-        "rating": 3.9
+        "rating": 3.9,
+        "images": [
+            "https://www.outlookindia.com/outlooktraveller/resizer.php?src=https://www.outlookindia.com/outlooktraveller/public/uploads/2017/07/featured-image.jpg&w=500&h=400"
+        ]
     },
     {
         "name": "Konark",
         "description": "Konark's Sun Temple is an architectural marvel and is one of the most beautiful monuments of India. The Annual Dance Festival is a five day-long cultural extravaganza which invites unique dancing talent from all over the country. This festival is a grand celebration of our country's rich cultural and artistic legacy, an event to truly rejoice the various dance forms that our country has invented. The celebrations happen with the backdrop of the Sun temple, adding grandeur and magnificence to the whole program. Besides this, Konark also hosts the Sun Festival, where devotees offer prayers to the Sun God by taking dips in the sea. The Dance Festival also hosts a Handicrafts Mela where one can buy unique and exquisitely handcrafted pieces which beautifully reflect the Oriya art form.",
         "bestTime": "September to March",
         "state": "Odisha",
-        "rating": 4.2
+        "rating": 4.2,
+        "images": [
+            "https://upload.wikimedia.org/wikipedia/commons/4/47/Konarka_Temple.jpg",
+            "https://i0.wp.com/www.opindia.com/wp-content/uploads/2020/02/image211c3c3f-8c6a-48fc-8c3b-3f1130226f76.jpg?fit=3268%2C1786&ssl=1"
+        ]
     },
     {
         "name": "Cuttack",
         "description": "Cuttack is the second-largest city in Odisha and the former capital as well. Local handicrafts of this state are displayed and traded in this very city. Cuttack is always buzzing with cultural activities and plays host to a variety of festivals like the Baliyatra, which commemorates the ancient trade links the countries like Java, Bali and Sumatra, Durga Puja and the Kite Festival which is held in the month of January. ",
         "bestTime": "July to March",
         "state": "Odisha",
-        "rating": 3.6
+        "rating": 3.6,
+        "images": [
+            "https://image3.mouthshut.com/images/imagesp/925076317s.jpg"
+        ]
     },
     {
         "name": "Chandipur",
         "description": "",
         "bestTime": "November to March",
         "state": "Odisha",
-        "rating": 3.1
+        "rating": 3.1,
+        "images": [
+            "https://www.nerdstravel.com/wp-content/uploads/2019/11/Chandipur-Beach-A-Place-of-Mysteries.png",
+            "https://odishatourism.gov.in/content/dam/tourism/home/discover/attractions/beaches/chandipur/chandipur%20corosal1.jpg"
+        ]
     },
     {
         "name": "Kohima",
         "description": "Kohima is the hilly capital of Nagaland, which is one of the seven sister states of India. ‘Kohima’ is the anglicized name given by the British, the original name being 'Kewhira' derived from the Kewhi flowers found in the region. Famous for its ethereal environment and untouched beauty, it is a land of folklore passed down through the ages. Situated at a height of 1500 metres above the sea level, it is endowed with quaint hills, emerald forests and a picturesque landscape. It is the go-to place for all you adventure enthusiasts as it is ideal for trekking, camping and hiking.",
         "bestTime": "October to June",
         "state": "Nagaland",
-        "rating": "3.5"
+        "rating": "3.5",
+        "images": [
+            "https://upload.wikimedia.org/wikipedia/commons/0/01/Kohima_City.jpeg"
+        ]
     },
     {
         "name": "Ajanta and Ellora Caves",
         "description": "Ajanta and Ellora caves, considered to be one of the finest examples of ancient rock-cut caves, are located near Aurangabad in Maharashtra, India. Ajanta and Ellora caves complex is adorned with beautiful sculptures, paintings, and frescoes and include Buddhist monasteries, Hindu and Jain temples. The Ajanta caves are 29 in number and were built between the 2nd century BC and 6th century AD, whereas the Ellora Caves are more spread out and 34 in number and dates to the period between 6th and 11th Century AD.",
         "bestTime": "June to March",
         "state": "Maharastra",
-        "rating": 4.3
+        "rating": 4.3,
+        "images": [
+           "https://breathedreamgo.com/wp-content/uploads/2010/03/India-for-Beginners-custom-tours-5.jpg",
+           "https://i.ytimg.com/vi/kgu6vcNLEC0/maxresdefault.jpg",
+           "https://www.weekendthrill.com/wp-content/uploads/2016/07/Ajanta-Ellora-Caves-compressed.jpg"
+        ]
     },
     {
         "name": "Mahabaleshwar",
         "description": "",
         "bestTime": "October to June",
-        "state":"Maharastra",
-        "rating": 4.4
+        "state": "Maharastra",
+        "rating": 4.4,
+        "images": [
+            "https://pix10.agoda.net/geo/city/3609/1_3609_02.jpg?s=1920x822"
+        ]
     },
     {
         "name": "Shirdi",
         "description": "The home of great saint Sai Baba, Shirdi is a religious site close to Nasik with various temples apart from the famous Sai Baba temple and a few historical sites.",
         "bestTime": "July to March",
-        "state":"Maharastra",
-        "rating": 4.3
+        "state": "Maharastra",
+        "rating": 4.3,
+        "images": [
+            "https://i.pinimg.com/originals/dc/27/39/dc27394a4ced433c8787829e3e3615aa.jpg",
+            "http://www.goodmorningimagesdownload.com/wp-content/uploads/2020/01/sai-baba-wallpaper-3.jpg"
+        ]
     },
     {
         "name": "Koland",
         "description": "Famous for white water rafting, Kolad is a thriving tiny village in the Raigad district in Maharashtra. Known for its cascading waterfalls, green meadows and picturesque backdrop of Sahyadris, Kolad is gaining traction as an adventure sports destination with provisions for rafting, rappelling, and kayaking.",
         "bestTime": "June to March",
         "state": "Maharastra",
-        "rating": 3.6
+        "rating": 3.6,
+        "images": [
+            "https://www.holidify.com/images/bgImages/KOLAD.jpg",
+            "https://www.holidify.com/images/compressed/527.jpg?v=1.1"
+        ]
     }
 ]
