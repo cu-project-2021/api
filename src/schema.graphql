@@ -8,6 +8,7 @@ type Query {
 
 
 type TouristSpot {
+    id: ID!
     name: String!
     description: String!
     bestTime: String!
