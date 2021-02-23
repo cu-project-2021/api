@@ -11,6 +11,10 @@
             "https://pix10.agoda.net/geo/city/6241/1_6241_02.jpg?s=1920x822",
             "https://myventure.in/wp-content/uploads/2016/02/kolkata-1.jpg",
             "https://wallup.net/wp-content/uploads/2018/03/19/587893-Kolkata-Victoria_Memorial_Hall.jpg"
+        ],
+        "type": [
+            "City Life",
+            "Historical"
         ]
     },
     {
@@ -25,6 +29,9 @@
             "https://wallpapercave.com/wp/wp6191605.jpg",
             "https://wallpapercave.com/wp/wp6191774.jpg",
             "https://www.sinclairshotels.com/assets/images/offers/special_offers/darjeeling_holiday_pkg.jpg"
+        ],
+        "type": [
+            "Hillstation"
         ]
     },
     {
@@ -38,6 +45,9 @@
            "https://i.pinimg.com/originals/f5/54/0e/f5540e609e208e4dfd8c1ef2e550f319.jpg",
            "https://wallpapercave.com/wp/wp2519762.jpg",
            "https://media.cntraveller.in/wp-content/uploads/2019/02/Sundarbans-deers-1366x768.jpg"
+        ],
+        "type": [
+            "Wildlife"
         ]
     },
     {
@@ -50,6 +60,9 @@
         "images": [
             "https://thumbs.dreamstime.com/b/picture-beautiful-landscape-view-siliguri-tourism-indian-city-tour-picture-roadway-besides-mountain-158440588.jpg",
             "https://image3.mouthshut.com/images/Restaurant/Photo/-26998_10864.jpg"
+        ],
+        "type": [
+            "Hillstation"
         ]
     },
     {
@@ -63,6 +76,9 @@
             "https://images.unsplash.com/photo-1559671888-af88d0c275bd?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8ZGlnaGElMjBiZWFjaCUyMGluZGlhfGVufDB8fDB8&ixlib=rb-1.2.1&w=1000&q=80",
             "https://logout.world/media/Digha_Beach.jpg",
             "https://assets.telegraphindia.com/telegraph/16digha_184242.jpg"
+        ],
+        "type": [
+            "Beach"
         ]
     },
     {
@@ -76,6 +92,9 @@
             "https://pix10.agoda.net/geo/city/8845/1_8845_02.jpg?s=1920x822",
             "https://wallpaperaccess.com/full/1266890.jpg",
             "https://www.hotelsjaipur.com/Jaipur_Images/alberthall.jpg"
+        ],
+        "type": [
+            "Historical"
         ]
     },
     {
@@ -90,6 +109,9 @@
             "https://c4.wallpaperflare.com/wallpaper/756/599/630/man-made-udaipur-hotel-hotel-india-wallpaper-preview.jpg",
             "https://st2.depositphotos.com/1000528/7606/i/950/depositphotos_76062369-stock-photo-city-palace-udaipur-india.jpg",
             "https://cdn.pixabay.com/photo/2017/05/14/10/45/udaipur-2311788_960_720.jpg"
+        ],
+        "type": [
+            "Historical"
         ]
     },
     {
@@ -104,6 +126,9 @@
             "https://www.teahub.io/photos/full/271-2710181_fort-of-jaisalmer-rajasthan-india-jaisalmer-fort.jpg",
             "https://i.pinimg.com/originals/06/41/4d/06414d39a0e01a029f7d63ca7575d0db.jpg",
             "https://previews.123rf.com/images/dimol/dimol1711/dimol171100049/89130415-view-of-jaisalmer-city-from-jaisalmer-fort-rajasthan-india.jpg"
+        ],
+        "type": [
+            "Historical"
         ]
     },
     {
@@ -117,6 +142,9 @@
             "http://boostthyself.com/wp-content/uploads/2017/08/Guru-Shikhar-Mount-Abu.jpg",
             "https://assets.traveltriangle.com/blog/wp-content/uploads/2016/02/guru-shikhar-peak-cover.jpg",
             "https://www.makemytrip.com/travel-guide/media/dg_image/mount_abu/thumb/Mount-Abu-Lavneet_19_166_mount_abu_938_410.jpg"
+        ],
+        "type": [
+            "Hillstation"
         ]
     },
     {
@@ -130,6 +158,9 @@
             "https://wallpapercave.com/wp/wp4584244.jpg",
             "https://www.outlookindia.com/public/uploads/gallery/20200907/ajmer_20200907.jpg",
             "https://kafilabackup.files.wordpress.com/2012/06/dargah-5.jpg"
+        ],
+        "type": [
+            "Historical"
         ]
     },
     {
@@ -143,6 +174,10 @@
             "https://wallpapercave.com/wp/wp3188687.jpg",
             "https://i.pinimg.com/originals/9b/6b/0f/9b6b0fbc0099a4f2f63480c44f3cc640.jpg",
             "https://i.pinimg.com/originals/5b/86/09/5b860912c75d0d651124d5d5c43b0eae.jpg"
+        ],
+        "type": [
+            "Religious",
+            "Historical"
         ]
     },
     {
@@ -155,6 +190,10 @@
         "images": [
             "https://cdn.s3waas.gov.in/s38cb22bdd0b7ba1ab13d742e22eed8da2/uploads/2018/04/2018041138.jpg",
             "https://image3.mouthshut.com/images/imagesp/925752776s.jpg"
+        ],
+        "type": [
+            "City Life",
+            "Religious"
         ]
     },
     {
@@ -167,6 +206,9 @@
         "images": [
             "https://www.shoutlo.com/uploads/articles/header-img-7-best-places-you-must-visit-in-ludhiana2.jpg",
             "https://edge.ixigo.com/ixi-api/img/570c9af0bad3eb3e36c27c47_600x315.jpg"
+        ],
+        "type": [
+            "Historical"
         ]
     },
     {
@@ -180,6 +222,10 @@
             "https://dd0w3jaz1pep7.cloudfront.net/assets/images/tourism/city/Puri/puri-4fcd3fcde44d78692f22ecc0.jpg",
             "https://s3.india.com/wp-content/uploads/2020/06/Rath-Yatra-2-PTI.jpg",
             "https://www.oyorooms.com/travel-guide/wp-content/uploads/2019/02/golden-beach-1.jpg"
+        ],
+        "type": [
+            "Religious",
+            "Beach"
         ]
     },
     {
@@ -191,6 +237,9 @@
         "rating": 3.9,
         "images": [
             "https://www.outlookindia.com/outlooktraveller/resizer.php?src=https://www.outlookindia.com/outlooktraveller/public/uploads/2017/07/featured-image.jpg&w=500&h=400"
+        ],
+        "type": [
+            "Religious"
         ]
     },
     {
@@ -203,6 +252,9 @@
         "images": [
             "https://upload.wikimedia.org/wikipedia/commons/4/47/Konarka_Temple.jpg",
             "https://i0.wp.com/www.opindia.com/wp-content/uploads/2020/02/image211c3c3f-8c6a-48fc-8c3b-3f1130226f76.jpg?fit=3268%2C1786&ssl=1"
+        ],
+        "type": [
+            "Historical"
         ]
     },
     {
@@ -214,18 +266,25 @@
         "rating": 3.6,
         "images": [
             "https://image3.mouthshut.com/images/imagesp/925076317s.jpg"
+        ],
+        "type": [
+            "Adventure Sports",
+            "City Life"
         ]
     },
     {
         "id": 18,
         "name": "Chandipur",
-        "description": "",
+        "description": "Chandipur is a secluded seaside village of Baleshwar district stored safely on the coastline of Orissa. Chandipur is also locally known as Chandipur-on-sea. If nature's wonder fascinates you, Chandipur Beach is an amazing place to be.",
         "bestTime": "November to March",
         "state": "Odisha",
         "rating": 3.1,
         "images": [
             "https://www.nerdstravel.com/wp-content/uploads/2019/11/Chandipur-Beach-A-Place-of-Mysteries.png",
             "https://odishatourism.gov.in/content/dam/tourism/home/discover/attractions/beaches/chandipur/chandipur%20corosal1.jpg"
+        ],
+        "type": [
+            "Beach"
         ]
     },
     {
@@ -237,6 +296,9 @@
         "rating": "3.5",
         "images": [
             "https://upload.wikimedia.org/wikipedia/commons/0/01/Kohima_City.jpeg"
+        ],
+        "type": [
+            "Hillstation"
         ]
     },
     {
@@ -250,6 +312,9 @@
            "https://breathedreamgo.com/wp-content/uploads/2010/03/India-for-Beginners-custom-tours-5.jpg",
            "https://i.ytimg.com/vi/kgu6vcNLEC0/maxresdefault.jpg",
            "https://www.weekendthrill.com/wp-content/uploads/2016/07/Ajanta-Ellora-Caves-compressed.jpg"
+        ],
+        "type": [
+            "Historical"
         ]
     },
     {
@@ -261,6 +326,9 @@
         "rating": 4.4,
         "images": [
             "https://pix10.agoda.net/geo/city/3609/1_3609_02.jpg?s=1920x822"
+        ],
+        "type": [
+            "Religious"
         ]
     },
     {
@@ -273,6 +341,9 @@
         "images": [
             "https://i.pinimg.com/originals/dc/27/39/dc27394a4ced433c8787829e3e3615aa.jpg",
             "http://www.goodmorningimagesdownload.com/wp-content/uploads/2020/01/sai-baba-wallpaper-3.jpg"
+        ],
+        "type": [
+            "Religious"
         ]
     },
     {
@@ -285,6 +356,9 @@
         "images": [
             "https://www.holidify.com/images/bgImages/KOLAD.jpg",
             "https://www.holidify.com/images/compressed/527.jpg?v=1.1"
+        ],
+        "type": [
+            "Adventure Sports"
         ]
     }
 ]

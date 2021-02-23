@@ -15,6 +15,7 @@ type TouristSpot {
     images: [String!]!
     state: String!
     rating: Float!
+    type: [String!]!
 }
 
 input TouristSpotOrderBy {
@@ -24,4 +25,14 @@ input TouristSpotOrderBy {
 enum Sort {
    asc
    desc 
+}
+
+enum Type {
+    Hillstation
+    Religious
+    Historical
+    Adventure Sports
+    Beach
+    City Life
+    Wildlife
 }
