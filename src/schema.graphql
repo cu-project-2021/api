@@ -2,8 +2,8 @@
 
 type Query {
     info: String!
-    allTouristSpots: [TouristSpot!]!
-    find(state: String, orderBy: TouristSpotOrderBy): [TouristSpot!]!
+    allTouristSpots(filter: Filter, order: TouristSpotOrderBy): [TouristSpot!]!
+    touristSpot(id: ID!): TouristSpot!
 }
 
 
@@ -20,6 +20,11 @@ type TouristSpot {
 
 input TouristSpotOrderBy {
     rating: Sort 
+}
+
+input Filter {
+    state: String
+    type: String
 }
 
 enum Sort {

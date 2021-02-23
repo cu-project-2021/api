@@ -1,23 +1,17 @@
 const info = () => "Hello"
 
 const allTouristSpots = (parent, args, context, info) => {
-    return context.tourists.allSpots()
+
+    return context.tourists.prepareQuery(args)
 }
 
-const find = (parent, args, context, info) => {
-    if(args.state){
-        return context.tourists.allSpots()
-    }else if (args.orderBy) {
-        return context.tourists.orderByRating(args.orderBy.rating);
-    }else {
-        return context.tourists.findByState(args.state);
-    }
-
+const touristSpot = (parent, args, context, info) => {
+    return context.tourists.find(parseInt(args.id));
 }
 
 
 module.exports = {
     info,
     allTouristSpots,
-    find
+    touristSpot
 }
